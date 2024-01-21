@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "category": "Epic",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "2",
+    "category": "Mythical",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "3",
+    "category": "Legendary",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "4",
+    "category": "Common",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "5",
+    "category": "Rare",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "6",
+    "category": "Common",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "7",
+    "category": "Epic",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "8",
+    "category": "Rare",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "9",
+    "category": "Common",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "10",
+    "category": "Epic",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "11",
+    "category": "Common",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "12",
+    "category": "Legendary",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "13",
+    "category": "Common",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "14",
+    "category": "Epic",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "15",
+    "category": "Common",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "16",
+    "category": "Rare",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  },
+  {
+    "id": "17",
+    "category": "Common",
+    "name": "SMG",
+    "images": "/assets/images/Layer1.png"
+  }
+]

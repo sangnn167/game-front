@@ -1,0 +1,158 @@
+.container {
+  width: 420px;
+  background: #001e33;
+  height: 1720px;
+  @media screen and (max-width: 950px) {
+    height: 4000px;
+  }
+  @media screen and (max-width: 431px) {
+    display: none;
+  }
+}
+
+.title {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  font-size: 32px;
+  padding-left: 52px;
+  padding-top: 47px;
+}
+
+.title > svg {
+  color: #56bbff;
+  margin-right: 15.41px;
+}
+
+.textClear {
+  margin-left: 45px;
+  color: #56bbff;
+  font-size: 23px;
+}
+
+.line {
+  width: 100%;
+  border: 2px solid #004a7e;
+}
+
+.descripbe {
+  padding-left: 52px;
+  padding-top: 20px;
+  color: #ffffff;
+}
+
+.textRarity {
+  width: 100%;
+  padding-right: 27px;
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+  margin-top: 13px;
+}
+
+.textEpic {
+  width: 100%;
+  padding-right: 34px;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.textEpic input {
+  width: 17px;
+  height: 17px;
+}
+
+.linee {
+  width: 335px;
+  border: 2px solid #004a7e;
+}
+
+.star {
+  width: 100%;
+  padding-right: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+  color: #ffbf0e;
+}
+
+.star input {
+  width: 17px;
+  height: 17px;
+}
+
+.star p {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.starBottom {
+  width: 100%;
+  padding-right: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  color: #ffbf0e;
+}
+
+.starBottom input {
+  width: 17px;
+  height: 17px;
+}
+
+.starBottom p {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.textPrice {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  width: 100%;
+  padding-right: 27px;
+  font-size: 32px;
+}
+
+.price {
+  display: flex;
+  align-items: center;
+ 
+}
+
+.priceMin {
+  width: 130px;
+  height: 38px;
+  background: #00090f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  font-size: 24px;
+  margin-right: 17px;
+}
+
+.priceMax {
+  width: 130px;
+  height: 38px;
+  background: #00090f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  font-size: 24px;
+  margin-left: 17px;
+}

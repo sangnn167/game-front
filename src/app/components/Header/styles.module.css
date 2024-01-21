@@ -1,0 +1,79 @@
+.container {
+  margin-left: 45px;
+  margin-right: 88.5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  @media screen and (max-width: 431px) {
+    justify-content: left;
+  }
+}
+
+.headerLeft {
+  display: flex;
+  align-items: center;
+}
+
+.headerLeft img {
+  width: 114.72px;
+  height: 80px;
+  margin-right: 94.28px;
+  @media screen and (max-width: 431px) {
+    width: 170.72px;
+    height: 120px;
+  }
+}
+
+.textMarketplace {
+  font-size: 28px;
+  color: #fbb90f;
+  margin-right: 90px;
+  @media screen and (max-width: 431px) {
+    font-size: 40px;
+  }
+}
+
+.textWallet {
+  font-size: 28px;
+  color: #ffffff;
+  @media screen and (max-width: 431px) {
+    font-size: 40px;
+  }
+}
+
+.headerRight {
+  width: 215.5px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0a8ee6;
+  border-radius: 5px;
+  color: #ffffff;
+  cursor: pointer;
+
+  @media screen and (max-width: 431px) {
+    margin-left: 380px;
+    height: 65px;
+    width: 470.5px;
+  }
+  @media screen and (max-width: 391px) {
+    margin-left: 320px;
+    height: 65px;
+  }
+}
+
+.headerRight > svg {
+  @media screen and (max-width: 431px) {
+    display: none;
+  }
+}
+
+.textConnect {
+  margin-left: 13px;
+  font-size: 18px;
+  @media screen and (max-width: 431px) {
+    font-size: 40px;
+  }
+}
